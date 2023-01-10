@@ -1,4 +1,10 @@
-# :construction: README customizado em construção ! :construction:
+ Projeto Lessons Learned
+
+ Primeiro projeto no curso de desenvolvimento web da Trybe. O projeto teve como objetivo o desenvolvimento de uma página de Portfólio com informações pessoais. Utilizamos HTML e CSS no seu desenvolvimento. 
+
+ Demonstração: 
+
+ 
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
