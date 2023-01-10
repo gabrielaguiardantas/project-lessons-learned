@@ -1,6 +1,6 @@
 # Projeto Lessons Learned #
 
- Primeiro projeto no curso de desenvolvimento web da Trybe. O projeto teve como objetivo o desenvolvimento de uma página de Portfólio com informações pessoais. Utilizei HTML e CSS no seu desenvolvimento. 
+ Primeiro projeto do curso de desenvolvimento web da Trybe. O projeto teve como objetivo o desenvolvimento de uma página de Portfólio com informações pessoais. Utilizei HTML e CSS no seu desenvolvimento. 
 
 ## Demonstração: ##
 
